@@ -33,7 +33,7 @@
 <br />
 <div align="center">
 <img src="https://www.hackingwithswift.com/img/100/swiftui/28.jpg">
-<h3 align="center">Rock Paper Scissors Game</h3>
+<h3 align="center">Better Rest/h3>
  <p align="center">
     Hacking With Swift - 100 Days of SwiftUI Milestone Challenge
  </p>
