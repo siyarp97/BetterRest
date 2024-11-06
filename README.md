@@ -51,12 +51,14 @@
 
 
 <p align = "center">
-[![Product Name Screen Shot][product-screenshot]](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXM5aHVnb29maXlrN3JpZW1lZDY4OGp2dGo4Y2JnM2NpMnBrcDcycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VCl5Lo7dIsSFv9kHHh/giphy.gif)
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXM5aHVnb29maXlrN3JpZW1lZDY4OGp2dGo4Y2JnM2NpMnBrcDcycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VCl5Lo7dIsSFv9kHHh/giphy.gif">
+
 
 </p>
 
 <p>
-If you're new in one coding language, hello world is your first common move and little bit further coming RPS game after that probably To Do list... So I'm newbie and that's code by building with my Swifty way.
+It's an app which decides your go to bed time by considering how many coffee you have been drank during the whole day. Yes it's use Apple's CoreML framework and may be good if apply that to smoke 🚬 ..
+So I'm newbie and that's code by building with my Swifty way.
 I am new about the Swift world, if you want to contact me <strong>please send a mail or follow from my social media!</strong>
 </p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -73,7 +75,7 @@ I am new about the Swift world, if you want to contact me <strong>please send a 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
+Just clone and look up!
 May we are at the same way through this adventure. Check my codes and improve together. Any feedbacks are welcome.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
